@@ -12,14 +12,17 @@
   min-width: 500px;
 }
 
+.big-card-title {
+  margin-top: 20px;
+}
+
 .big-card-title a {
-  margin-top: 25px;
   font-size: 1.5rem;
   font-weight: bold;
 }
-
-
+.big-card-description {
+  margin-top: 10px;
+}
 .big-card-description p a {
-  margin-top: 25px;
   color: #808080;
 }

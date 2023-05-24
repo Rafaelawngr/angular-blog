@@ -10,6 +10,7 @@
 
 .small-card-photo img {
   width: 200px;
+  height: 130px;
   min-width: 200px;
   margin-right: 20px;
 }
@@ -24,4 +25,8 @@
 
 .container-small-card-separator {
   margin-top: 10px;
+}
+
+hr {
+  border-color: #808080;
 }

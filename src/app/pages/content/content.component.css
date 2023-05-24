@@ -7,18 +7,28 @@
 }
 
 .content-cover img {
-  width: 500px;
+  width: 600px;
   min-width: 500px;
   margin-top: 20px;
 }
 
 .content-title {
   margin-top: 15px;
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: center;
 }
 
 .content-description {
   margin-top: 15px;
 }
 .content-description p {
+  margin-top: 20px;
   color: #808080;
+  margin: 25px 200px;
+}
+
+hr {
+  border-color: #808080;
+  margin-top: 15px;
 }
