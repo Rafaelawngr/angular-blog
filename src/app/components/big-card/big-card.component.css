@@ -7,19 +7,19 @@
   align-items: flex-start;
   justify-content: flex-start;
 }
+.big-card-photo img {
+  width: 100%;
+  min-width: 500px;
+}
 
 .big-card-title a {
-  margin-top: 15px;
+  margin-top: 25px;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-.big-card-photo img {
-  width: 100%;
-  min-width: 500px
-}
 
-.big-card-description p {
-  margin-top: 10px;
+.big-card-description p a {
+  margin-top: 25px;
   color: #808080;
 }
